@@ -30,7 +30,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-TOKEN = ""
+TOKEN = "888123682:AAFM34zbolldnsPY5j9oI398JLITUMr-IBs"
 PATH_DIRECTORY = "tmp"
 
 
